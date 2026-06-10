@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/AbishekPokhrel">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Medical+Imaging+AI+Researcher Assistant +%40+Towson+University; Building+segmentation+%E2%86%92+detection+%E2%86%92+report+pipelines;" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Medical+Imaging+AI+Research+Assistant+%40+Towson+University;Building+segmentation+%E2%86%92+detection+%E2%86%92+report+pipelines;" />
   </a>
 </p>
 
