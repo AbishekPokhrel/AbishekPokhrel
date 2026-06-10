@@ -6,10 +6,10 @@
   <a href="https://github.com/AbishekPokhrel">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/abishek-pokhrel-b04565219/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL-HERE">
+  <a href="mailto:apokhre2@students.towson.edu">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wandb.ai/pokhrelabishek8">
