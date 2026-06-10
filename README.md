@@ -67,15 +67,6 @@ My focus is on building end-to-end systems that take medical images from raw sca
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbishekPokhrel&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekPokhrel&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
----
-
 <p align="center">
   <samp>MS Computer Science (Data Science & AI) @ Towson University · Graduating May 2027 · Maryland, USA</samp>
 </p>
