@@ -39,31 +39,25 @@ My focus is on building end-to-end systems that take medical images from raw sca
 
 ## Featured projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[BrainSeg AI](https://github.com/AbishekPokhrel/REPO-NAME)** | Brain tumor segmentation on BraTS, deployed as a production API | PyTorch · MONAI · FastAPI · Docker · AWS |
-| **[NeuroLLM Report Engine](https://github.com/AbishekPokhrel/REPO-NAME)** | RAG-based radiology report generation from chest X-rays | LangChain · ChromaDB · MIMIC-CXR |
-| **[PathologyVision AI](https://github.com/AbishekPokhrel/REPO-NAME)** | Metastasis detection in whole-slide pathology images | Swin Transformer · CAMELYON16 |
-| **[SegWorkbench](https://github.com/AbishekPokhrel/REPO-NAME)** | Desktop biomedical image segmentation framework | Python · nnU-Net |
-| **[AI Stock Sentiment Dashboard](https://github.com/AbishekPokhrel/TeamMasters-AI-Stock-Sentiment-Dashboard)** | Real-time stock sentiment analysis dashboard | Streamlit · PostgreSQL · NewsAPI · Plotly |
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **BrainSeg AI** | Brain tumor segmentation on BraTS, deployed as a production API | PyTorch · MONAI · FastAPI · Docker · AWS | 🚧 In development |
+| **NeuroLLM Report Engine** | RAG-based radiology report generation from chest X-rays | LangChain · ChromaDB · MIMIC-CXR | 🚧 In development |
+| **PathologyVision AI** | Metastasis detection in whole-slide pathology images | Swin Transformer · CAMELYON16 | 🚧 In development |
+| **SegWorkbench** | Desktop biomedical image segmentation framework — presented at SERA 2026 | Python · nnU-Net | 🎤 Presented |
+| **[AI Stock Sentiment Dashboard](https://github.com/AbishekPokhrel/TeamMasters-AI-Stock-Sentiment-Dashboard)** | Real-time stock sentiment analysis dashboard | Streamlit · PostgreSQL · NewsAPI · Plotly | ✅ Live |
 
 ---
 
-## Tech stack
+## Key areas
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/MONAI-5C2D91?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" />
-</p>
+```text
+Medical Imaging AI    PyTorch · MONAI · nnU-Net · Swin Transformer · BraTS · MIMIC-CXR
+Computer Vision       Segmentation · Detection · Classification · OpenCV · DICOM/NIfTI
+LLMs & RAG            LangChain · ChromaDB · Retrieval-Augmented Generation · Prompt Design
+MLOps & Deployment    FastAPI · Docker · AWS · Weights & Biases · Git · Linux · tmux
+Data & Backend        Python · SQL · PostgreSQL · Java · Streamlit · Pandas · NumPy
+```
 
 ---
 
