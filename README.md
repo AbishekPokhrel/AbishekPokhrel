@@ -4,6 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/AbishekPokhrel">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Medical+Imaging+AI+Researcher+%40+Towson+University;Building+segmentation+%E2%86%92+detection+%E2%86%92+report+pipelines;Training+nnU-Net+on+MRI+%7C+Targeting+MICCAI+2026;MS+Computer+Science+(Data+Science+%26+AI)+%C2%B7+May+2027" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AbishekPokhrel">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abishek-pokhrel-b04565219/">
